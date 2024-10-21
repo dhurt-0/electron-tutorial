@@ -1,0 +1,14 @@
+{
+  "name": "electron-tutorial",
+  "version": "1.0.0",
+  "description": "A tutorial app from electronjs.org",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dhurt",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^33.0.1"
+  }
+}
